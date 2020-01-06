@@ -8,3 +8,4 @@ https://codenotfound.com/grpc-java-example.html
 https://scotch.io/tutorials/implementing-remote-procedure-calls-with-grpc-and-protocol-buffers
 https://developers.google.com/protocol-buffers/docs/javatutorial
 https://stackoverflow.com/a/45970197
+https://www.confluent.io/blog/building-shared-state-microservices-for-distributed-systems-using-kafka-streams/

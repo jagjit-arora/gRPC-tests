@@ -10,3 +10,4 @@ https://developers.google.com/protocol-buffers/docs/javatutorial
 https://stackoverflow.com/a/45970197
 https://www.confluent.io/blog/building-shared-state-microservices-for-distributed-systems-using-kafka-streams/
 https://stackoverflow.com/a/56909174
+https://www.google.com/amp/s/simplydistributed.wordpress.com/2017/03/21/kafka-streams-state-stores/amp/

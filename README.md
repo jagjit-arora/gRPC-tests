@@ -9,3 +9,4 @@ https://scotch.io/tutorials/implementing-remote-procedure-calls-with-grpc-and-pr
 https://developers.google.com/protocol-buffers/docs/javatutorial
 https://stackoverflow.com/a/45970197
 https://www.confluent.io/blog/building-shared-state-microservices-for-distributed-systems-using-kafka-streams/
+https://stackoverflow.com/a/56909174
